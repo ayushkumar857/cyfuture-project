@@ -42,9 +42,3 @@
 - Apply data balancing and augmentation techniques.
 - Incorporate audio features for direct speech emotion recognition.
 - Develop a user-friendly interface for real-time emotion detection.
-
-## License
-MIT License
-
-## Author
-Your Name, 2025
