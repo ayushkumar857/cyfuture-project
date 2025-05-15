@@ -1,0 +1,9 @@
+numpy
+scikit-learn
+joblib
+whisper
+torch
+pydub
+pyttsx3
+ffmpeg-python
+pandas
